@@ -1,0 +1,49 @@
+.ffe{
+    color:white;
+    text-align:center;
+    margin-top:8%;
+}
+.qwerty{
+    border-radius: 5px;
+    padding: 5px;
+    margin:8px;
+    box-shadow: 5px 5px 0px 0px rgb(224, 63, 89);
+    width:120%;
+}
+.qwertyy{
+    border-radius: 5px;
+    padding:5px;
+    margin:6.5px;
+    box-shadow: 5px 5px 0px 0px rgb(224, 63, 89);
+    width:120%;
+}
+.qwertyyy{
+    border-radius: 5px;
+    padding:5px;
+    margin:8px;
+    box-shadow: 5px 5px 0px 0px rgb(224, 63, 89);
+    width:120%;
+}
+.con3{
+        display: block;
+        text-align: center;
+}
+.con3 form{
+        display: inline-block;
+        margin-left: auto; 
+        margin-right: auto;
+        text-align: left;
+        margin-top:1%;
+}
+.btnnn{
+    margin: 15%;
+    background-color:rgb(224, 63, 89) ;
+    color: white;
+    text-align:center;
+    border-radius: 8px;
+    height:45px;
+    margin-left:43%;
+     padding:6px;
+     border:3px solid white;
+     width:50%;
+}

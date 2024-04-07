@@ -1,0 +1,105 @@
+.pqr {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; 
+}
+
+.pqr , .pqr .q, .pqr .r {
+  flex: 1;
+  display: flex;
+  /* align-items: center;
+  justify-content: center; */
+  align-items: flex-start;
+justify-content: flex-start;
+width: 100vw;
+  width: 100vw;
+  padding: 10px;
+}
+.pqr  {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+}
+.m{
+  color: #FE4D69;
+  font-size: 30px;
+  text-align: center;
+  padding-left: 44%;
+  padding-top: -15%;
+  margin-top: -25px;
+  
+}
+.n{
+  color:#FE4D69 ;
+  font-size: 22px;
+  text-align: left;
+  margin-left: 25px;
+  white-space:nowrap;
+  margin-top:50px;
+}
+/* .p{
+  margin-top: 30px;
+} */
+.para{
+width: 50%;
+
+}
+.op{
+margin-top:36px;
+font-size: 18px;
+text-align: center;
+margin-left: -50px;
+color:white;
+
+}
+/* .p {
+margin-bottom: 10px; 
+} */
+
+/* or */
+
+.queue {
+/* margin-top: 10px;  */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.i{
+height: 200px;
+width: 120px;
+margin-left: 20px;
+margin-right: 20px;
+}
+.ii{
+height: 200px;
+width: 170px;
+/* margin-left: 20px; */
+margin-right: 20px;
+}
+
+.iii{
+height: 200px;
+width: 100px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.im{
+margin-top: 30px;
+margin-left: 0px;
+}
+/* .poooooo{
+  margin-top: 40px;
+} */
+
+.ramesh{
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100vw;
+}

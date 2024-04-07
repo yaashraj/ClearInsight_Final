@@ -1,0 +1,34 @@
+
+   .a{
+    height: 100%;
+     width: 100vw;
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+
+   }
+
+   .b{
+     height:5px;
+     margin-bottom: 10px;
+     padding:20px;
+   }
+   .c{
+     margin-top: 0px;
+     display: flex;
+     flex-direction: column;
+     
+     width: 50%;
+     margin: auto;
+     position: relative;
+     border-radius: 8px;
+     border-style: groove;
+   }
+   .d{
+     color: black;
+     background-color: antiquewhite;
+     position: absolute;
+     right: 0;
+     border-radius: 10px;
+     margin-top: 15px;
+   }

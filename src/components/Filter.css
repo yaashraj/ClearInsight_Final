@@ -1,0 +1,32 @@
+
+.table{
+    border:5px solid #FE4D69;
+    margin: 0px;
+    width: 70%;
+    margin-top:40px;
+    margin-left: 15%;
+    box-shadow: 5px 5px 5px 5px rgb(224, 63, 89);
+    
+}
+.bb{
+    width: 70%;
+    margin-top:100px;
+    margin-left: 15%;
+    padding-top:15px;
+}
+
+
+.aa {
+    height: 100%;
+    width: 100vw;
+    display: flex;
+}
+
+
+.form-controls{
+    width:70%;
+    margin-left: 15%;
+    box-shadow: 5px 5px 0px 0px rgb(209, 206, 206);
+    height: 40px;
+    border-radius: 9px;
+}

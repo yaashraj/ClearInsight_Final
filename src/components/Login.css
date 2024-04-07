@@ -1,0 +1,40 @@
+
+.navbar {
+    background-color:black;
+    margin: 0;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+  }
+  .nav-item{
+    padding-left: 92px;
+  }
+  .nav-link {
+    color: white;
+  }
+  .mid{
+    width: 54vw;
+    margin:0;
+  }
+  .even{
+    width: 50vw;
+    list-style: none;
+    display: flex;
+    margin: 7px;
+    margin-left: 2px;
+    padding-left: 120px;
+  }
+
+  .mid{
+    display: flex;
+    align-content: center;
+  }
+  .outer{
+    width: 100vw;
+  }
+  .btn{
+    margin-top: 5px;
+  }  
+  .nav-item:hover {
+    color: #FE4D69; /* Change to the color you want on hover */
+}
